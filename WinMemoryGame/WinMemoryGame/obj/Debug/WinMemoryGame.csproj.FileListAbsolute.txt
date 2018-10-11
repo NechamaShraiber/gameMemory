@@ -1,0 +1,16 @@
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\bin\Debug\WinMemoryGame.exe.config
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\bin\Debug\WinMemoryGame.exe
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\bin\Debug\WinMemoryGame.pdb
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.HmoePage.resources
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.Properties.Resources.resources
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.csproj.GenerateResource.cache
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.exe
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.pdb
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.csproj.CopyComplete
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.exe.config
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.ChoosePartner.resources
+C:\Users\seldat\Desktop\WinMemoryGame\WinMemoryGame\obj\Debug\WinMemoryGame.Game.resources
