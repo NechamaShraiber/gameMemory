@@ -1,14 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace MemoryGame.Models
 {
     public class Game
     {
+        [Required]
         public User Player1 { get; set; }
+        [Required]
         public User Player2 { get; set; }
+        [MinLength(2), MaxLength(10)]
         public string CurrentTurn { get; set; }
         /// <summary>
         /// The key is the card content
