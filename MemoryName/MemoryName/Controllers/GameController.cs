@@ -21,6 +21,7 @@ namespace MemoryName.Controllers
                 return BadRequest();
             return Ok(new { currentGame.CardArray, currentGame.CurrentTurn });
         }
+
         [Route("api/updateTurn/{userName}/{firstCard}/{secondCard}")]
         [HttpPut]
         public IHttpActionResult UpdateTurn(string userName, string firstCard, string secondCard)

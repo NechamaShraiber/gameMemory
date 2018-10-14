@@ -115,10 +115,7 @@ namespace WinMemoryGame
            
         }
 
-        private void HmoePage_Load(object sender, EventArgs e)
-        {
 
-        }
     }
 }
 

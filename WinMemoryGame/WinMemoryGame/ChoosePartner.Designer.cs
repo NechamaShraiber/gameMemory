@@ -49,7 +49,6 @@
             this.label1.Size = new System.Drawing.Size(758, 108);
             this.label1.TabIndex = 1;
             this.label1.Text = "choose a partner";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // dgvPartner
             // 
@@ -108,7 +107,6 @@
             this.Controls.Add(this.label1);
             this.Name = "ChoosePartner";
             this.Text = "ChoosePartner";
-            this.Load += new System.EventHandler(this.ChoosePartner_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvPartner)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

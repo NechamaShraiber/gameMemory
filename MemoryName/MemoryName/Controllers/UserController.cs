@@ -34,12 +34,14 @@ namespace MemoryGame
 
             return Ok();
         }
+
         [Route("api/getUsersWaitToPartner")]
         [HttpGet]
         public IHttpActionResult GetUsersWaitToPartner()
         {
             return Ok(Global.UserList.Where(u => u.PartnerName == null).Select(p => new { p.UserName, p.Age }));
         }
+
         [Route("api/getUserDetails/{userName}")]
         [HttpGet]
         public IHttpActionResult GetUserDetails(string userName)
@@ -82,6 +84,7 @@ namespace MemoryGame
                 else return Ok("you has partner yet");
             }
         }
+
         [Route("api/deleteUser/{userName}")]
         [HttpGet]
         public IHttpActionResult deleteUser(string userName)

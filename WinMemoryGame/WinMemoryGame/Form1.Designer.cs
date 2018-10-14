@@ -123,7 +123,6 @@
             this.Name = "HmoePage";
             this.Text = "HomePage";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.HmoePage_FormClosed);
-            this.Load += new System.EventHandler(this.HmoePage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
