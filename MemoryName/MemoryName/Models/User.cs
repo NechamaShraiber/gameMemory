@@ -8,7 +8,7 @@ namespace MemoryGame.Models
     {
         [Required]
         [MinLength(2),MaxLength(10)]
-        [Key]
+        [Key ]
         public string UserName { get; set; }
         [Required]
         [Range(18, 120)]

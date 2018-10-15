@@ -38,7 +38,7 @@ namespace WinMemoryGame
                 var result = response.Content.ReadAsStringAsync().Result;
                 dynamic obj = JsonConvert.DeserializeObject(result);
                 currentTurn = obj["CurrentTurn"];
-                gbCards.Text = "current turn: " + currentTurn;
+                gbCards.Text = $"current turn: {currentTurn}";
                 var jsonCards = obj["CardArray"];
                 cards = new Dictionary<string, string>();
                 foreach (var item in jsonCards)
@@ -141,6 +141,7 @@ namespace WinMemoryGame
         private void Game_Load(object sender, EventArgs e)
         {
             GetAllCards();
+           
 
         }
 
